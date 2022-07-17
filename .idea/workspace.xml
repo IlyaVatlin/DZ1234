@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b3a51c2-b28e-40d1-b745-8daa39802696" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/sqr/SQRService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SQRServiceTest.java" afterDir="false" />
+    <list default="true" id="1b3a51c2-b28e-40d1-b745-8daa39802696" name="Changes" comment="SQRTest">
+      <change beforePath="$PROJECT_DIR$/src/test/java/SQRServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/sqr/SQRServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "C:/Users/ilyav/DZ/DZ123/src/test/java"
+    "last_directory_selection": "C:/Users/ilyav/DZ/DZ123/src/test/java/ru/netology/sqr"
   }
 }]]></component>
   <component name="RunManager">
@@ -77,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658065404557</updated>
     </task>
+    <task id="LOCAL-00001" summary="SQRTest">
+      <created>1658069128350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658069128350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SQRTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="SQRTest" />
   </component>
 </project>
